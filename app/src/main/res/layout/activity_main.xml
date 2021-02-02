@@ -14,7 +14,6 @@
         android:ems="10"
         android:hint='Name of "Artist"'
         android:inputType="textPersonName"
-        android:text="Name"
         app:layout_constraintEnd_toStartOf="@+id/buttonsearch"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
